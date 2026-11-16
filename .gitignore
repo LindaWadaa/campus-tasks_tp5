@@ -5,3 +5,4 @@ __pycache__/
 .env.deploy
 .env.staging
 .env.deploy
+report.xml
